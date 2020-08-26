@@ -6,4 +6,4 @@ def square_array
   end
 end
 
-square_array(numbers)
+square_array
